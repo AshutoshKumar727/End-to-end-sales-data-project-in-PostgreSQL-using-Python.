@@ -63,10 +63,5 @@ Key metrics calculated:
 - **Most Popular Payment Method**: *UPI*
 - **Customer Retention**: 18% repeat customers in January
 
----
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Restaurant_Sales_Analysis_PostgreSQL.git
 
